@@ -1,1 +1,2 @@
 Hello World!
+adding 2nd line to the checked out file. this file was edited after checking out.
